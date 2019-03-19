@@ -3,6 +3,7 @@ def my_collect(array) do |name|
   collection = []
   while i < array.length 
     collection << yield(array[i])
+    i += 1
 
 end
 
