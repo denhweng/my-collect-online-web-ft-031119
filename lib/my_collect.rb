@@ -9,4 +9,4 @@ def my_collect(array) do |name|
 
 end
 
-def my_collect(list)
+def my_collect(list) { |i| i.split(" ")
