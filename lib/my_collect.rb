@@ -9,3 +9,4 @@ def my_collect(array) do |name|
 
 end
 
+def my_collect(names)
