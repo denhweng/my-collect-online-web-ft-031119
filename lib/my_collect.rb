@@ -1,5 +1,7 @@
 def my_collect(array) do |name|
-  name.split(" ").first
+  i = 0 
+  collection = []
+  
 
 end
 
